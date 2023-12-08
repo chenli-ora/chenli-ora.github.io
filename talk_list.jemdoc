@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU}{teaching.html}
+
+== Slides
+
+- [https://chenli-ora.github.io/docs/talk_slides/2ndVI.pdf *Generalized Second Order Value Iteration in Markov Decision Processes*] June, 2022 \n
+
+
+- [https://chenli-ora.github.io/docs/talk_slides/defense.pdf *Optimization under Uncertainty using Exponential Cones*] June 16, 2022 \n
+
+
+- [https://chenli-ora.github.io/docs/talk_slides/CRO.pdf *Conditional Robust Optimization*] May 2022 \n
+
+- [https://chenli-ora.github.io/docs/talk_slides/CCP.pdf *Relaxations and approximations of chance constraints under finite distributions*] November 19, 2021 \n
+
+- [https://chenli-ora.github.io/docs/notes/SDP-quantum-corrected.pdf *Some SDP Problems from Quantum Information*] August 25, 2021 \n
+
+- [https://chenli-ora.github.io/docs/talk_slides/QKD.pdf *Robust Interior Point Method for Quantum Key Distribution Rate Computation*] August 20, 2021 \n
+
+- [https://chenli-ora.github.io/docs/talk_slides/low_rank_MatrixOpt.pdf *A New Perspective on Low-Rank Optimization*] June 12, 2021 \n 
+
+- [https://chenli-ora.github.io/docs/talk_slides/ECP_mosek.pdf *A primal-dual interior-point algorithm for nonsymmetric exponential-cone optimization*] April 23, 2021 \n
+
+- [https://chenli-ora.github.io/docs/talk_slides/AADR.pdf *Anderson Accelerated Douglas–Rachford Splitting*] Dec 11, 2020 \n
+
+- [https://chenli-ora.github.io/docs/talk_slides/entropic_risk_SP.pdf *Multistage stochastic programs with the entropic risk measure*] Nov 14, 2020 \n
+
+- [https://chenli-ora.github.io/docs/talk_slides/gauge_duality.pdf *Gauge and Perspective Duality*] (Alexandre Y. Aravkin, James V. Burke, Dmitriy Drusvyatskiy, Michael P. Friedlander, Kellie MacPhee) August 28, 2020 \n
+
+
+- [https://chenli-ora.github.io/docs/talk_slides/DRO-moment.pdf *Distributionally Robust Optimization with Moment-based Ambiguity Set*] August 8, 2020 \n
+
+- [https://chenli-ora.github.io/docs/talk_slides/matrix_log.pdf *Semidefinite Approximations of the Matrix Logarithm*] (Hamza Fawzi, James Saunderson, Pablo A. Parrilo) June 5, 2020 \n
+
+- [https://chenli-ora.github.io/docs/talk_slides/uniform_sampling_matrix.pdf *Uniform Sampling for Matrix Approximation*] (Michael B. Cohen, Yin Tat Lee, Cameron Musco, Christopher Musco, Richard Peng, Aaron Sidford) April 30, 2020 \n
+
+- [https://chenli-ora.github.io/docs/talk_slides/DRO-CCP.pdf *Representation of Distributionally Robust Chance-constraints*] Nov, 2019 \n
+
+
+
+
+
+
+

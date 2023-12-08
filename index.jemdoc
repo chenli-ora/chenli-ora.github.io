@@ -1,0 +1,39 @@
+# jemdoc: menu{MENU}{index.html}
+= CHEN, Li (陈力)
+
+~~~ 
+{}{img_left}{pics/me.jpg}{}{}{250}{}
+Ph.D. in Operations Research and Analytics \n
+Lecturer in Business Analytics \n 
+The University of Sydney Business School \n 
+\n 
+Room 4135, Abercrombie Building H70, \n 
+Corner Abercrombie Street and Codrington Street, \n 
+The University of Sydney NSW 2006  \n 
+\n
+Email: [chen\_l@u.nus.edu chen\_l@u.nus.edu]  \n 
+\n 
+[https://www.sydney.edu.au/business/about/our-people/academic-staff/li-chen.html \[Official Website\]] \n 
+\n
+[https://scholar.google.com/citations?user=kCJmdVwAAAAJ&hl=en \[Google Scholar\]]    
+~~~
+
+== About Me 
+I am a lecturer (Assistant Professor) in [https://www.sydney.edu.au/business/our-research/research-areas/business-analytics.html The Discipline of Business Analytics], [https://www.sydney.edu.au/business/ The University of Sydney Business School]. Prior to Sydney, I was a research fellow in the [https://iora.nus.edu.sg/ Institute of Operations Research and Analytics (IORA)] at National University of Singapore (NUS), where
+I obtained my Ph.D. under the supervision by Professor [https://bizfaculty.nus.edu.sg/faculty-details/?profId=127 Melvyn SIM] and Professor [https://blog.nus.edu.sg/mattohkc/ Kim-Chuan TOH]. Prior to NUS, I received my BSc in Computational Mathematics from [https://en.ustc.edu.cn/ University of Science and Technology of China (USTC)]. 
+
+
+== Research Interests
+My research aims (i) to develop new models and algorithms that help transform data into insights to make better decisions and (ii) to solve impactful problems in various domains to generate managerial insights and policy implications for decision-makers. The word cloud below, created from some of my papers’ abstracts, might give you a snapshot of my research. 
+
+~~~ 
+{}{img_left}{pics/wordcloud.png}{}{623}{320}{} 
+=== Area of Interests
+- Optimization Under Uncertainty
+- Data-Driven Decision Making
+- Smart City Operations
+- Supply Chain Management
+- Sustainable Operations
+- Transportation and Logistics
+~~~
+
