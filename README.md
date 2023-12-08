@@ -1,2 +1,1 @@
-# cxqdssaw.github.io
-# website template
+# personal website
