@@ -1,6 +1,12 @@
 # jemdoc: menu{MENU}{research.html}
 = Research 
 
+*My research focuses on the methodology and applications of optimization under uncertainty*.
+
+*My methodological work advances uncertainty modelling and risk-aware optimization.* For instance, in modelling uncertainty, I leverage moment-generating functions to characterize uncertainty under incomplete information. I have also developed systematic approaches for computationally tractable approximations of dynamic risk-aware optimization problems using *exponential conic optimization*. Compared with existing robust optimization methods, these approaches provide a more precise and flexible framework for modelling uncertainty while reducing both conservativeness and computational burden. More recently, I have contributed to *contextual robust optimization* by incorporating side information (covariates) into uncertainty modelling and robust optimization, thereby integrating prediction with optimization while mitigating decision-making risk.
+
+*I am broadly interested in addressing operational challenges in supply chain management, smart city operations, transportation and logistics, and revenue management. My research aims to support sustainable economic development, reinforce social responsibility, and deliver societal benefits.* My published and ongoing projects include smart charging scheduling for electric vehicles, green technology investment under operational considerations, strategic location–inventory decisions in emergency contexts, process flexibility under supply and demand uncertainty, joint pricing and inventory management, operational efficiency for on-demand meal delivery platforms, port efficiency evaluation, and sensor location for route reconstruction.
+
 == Working Papers
 
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5769803 *Analytics for On-Demand Food Delivery: A Hurwicz Satisficing Perspective*] \n
@@ -11,21 +17,23 @@ Ziao Zhao, Li Chen, Qinghe Sun \n
 [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5130565 *Robust Data-Driven CARA Optimization*] \n
 Li Chen, Arjun Ramachandra, Napat Rujeerapaiboon \n
 
+[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5838902 *Rank-Constrained Mixed-Integer Optimization for Heterogeneous Sensor Location in Route Reconstruction*] \n
+Chenyi Fu, Li Chen, Zhiyuan Lou \n
 
 
 == Publications
 
 [https://pubsonline.informs.org/doi/10.1287/opre.2023.0430 *Process Flexibility: A Distribution-Free Approach to Long Chain Resilience*] \n
 Li Chen, Mabel C. Chou, Qinghe Sun \n
-/Operations Research, 2025+ /  \n
+/Operations Research, 2026 /  \n
 
 [https://pubsonline.informs.org/doi/10.1287/opre.2023.0300 *Robust Actionable Prescriptive Analytics*] \n
 Li Chen, Melvyn Sim, Xun Zhang, Long Zhao, Minglong Zhou \n
-/Operations Research, 2025+ / [https://pubsonline.informs.org/doi/suppl/10.1287/opre.2023.0300 \[code files\]] \n
+/Operations Research, 2026 / [https://pubsonline.informs.org/doi/suppl/10.1287/opre.2023.0300 \[code files\]] \n
 
 [https://pubsonline.informs.org/doi/10.1287/opre.2023.0579 *Robust Optimization with Moment-Dispersion Ambiguity*] \n
 Li Chen, Chenyi Fu, Fan Si, Melvyn Sim, Peng Xiong \n
-/Operations Research, 2024+ / [https://github.com/Chenyi-Fu/Robust-Optimization-with-Moment-Dispersion-Ambiguity \[code files\]] \n
+/Operations Research, 2025 / [https://github.com/Chenyi-Fu/Robust-Optimization-with-Moment-Dispersion-Ambiguity \[code files\]] \n
 
 [https://pubsonline.informs.org/doi/10.1287/opre.2021.0654 *Robust CARA Optimization*] \n
 Li Chen, Melvyn Sim \n
